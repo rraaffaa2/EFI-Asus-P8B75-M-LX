@@ -1,4 +1,4 @@
-# EFI Asus P8B75-M LX
+# EFI Asus P8B75-M LX (For Hackintosh)
 EFI OpenCore for BASE Intel Ivy Bridge (3th Gen)
 
 •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
