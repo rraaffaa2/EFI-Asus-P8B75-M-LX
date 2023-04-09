@@ -1,15 +1,20 @@
 # EFI Asus P8B75-M LX
-EFI OpenCore for Asus P8B75-M LX
+EFI OpenCore for BASE Intel Ivy Bridge (3th Gen)
 
 •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
-                                   !!!REMEMBER!!!
+                                   ! ! ! REMEMBER ! ! !
 
 •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
-EFI ini hanya untuk moboo Asus P8B75-M LX, jadi sesuaikanlah sama komponen PC yg kalian miliki
+*EFI ini hanya untuk mobo Asus P8B75-M LX, jadi sesuaikanlah sama komponen PC yg kalian miliki*
 
-🖥 Specs PC ini:
+
+| Note  | Description |
+| ------------- | ------------- |
+| Initial macOS Support  | ONLY For macOS Big Sur  |
+
+**🖥 Specs PC ini:**
 
 • Mobo : Asus P8B75-M LX
 
@@ -28,8 +33,6 @@ EFI ini hanya untuk moboo Asus P8B75-M LX, jadi sesuaikanlah sama komponen PC yg
 • Audio Codec : VIA VT1708S
 
 • Ethernet : Realtek RTL8111F
-
-• OS : (HANYA UNTUK) macOS Big Sur
 
 • Bootloader : Opencore v0.8.6
 
