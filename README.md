@@ -16,7 +16,7 @@ EFI OpenCore BASE Intel Ivy Bridge (3th Gen)
 
 # 🖥  Specs PC ini:
 
-• Mobo : Asus P8B75-M LX
+• Mobo : Asus P8B75-M LXc
 
 • Processor : Intel Core i5-3570 (Ivy Bridge)
 
