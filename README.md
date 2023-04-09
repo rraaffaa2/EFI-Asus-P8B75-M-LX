@@ -7,7 +7,7 @@ EFI OpenCore BASE Intel Ivy Bridge (3th Gen)
 
 •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
-*EFI ini hanya untuk mobo Asus P8B75-M LX, jadi jangan download bila komponen PC kalian tidak sama*
+*EFI ini hanya untuk mobo Asus P8B75-M LX, jangan download bila komponen PC kalian tidak sama*
 
 
 | Note  | Description |
